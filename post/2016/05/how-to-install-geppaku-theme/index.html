@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="Hugo 0.18.1" />
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <link href="http://skokoh.github.io/index.xml" rel="alternate" type="application/rss+xml" title="stella koh" />
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    
+    <script src="https://apis.google.com/js/platform.js" async defer>{lang: 'ja'}</script>
+    
+    <link rel="stylesheet" href="https://yandex.st/highlightjs/8.0/styles/default.min.css">
+    <script src="https://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <title>How to install Geppaku theme | stella koh</title>
+  </head>
+  <body>
+    <div id="wrap">
+      
+      <header class="site-header">
+        <div class="site-header-left">
+          <a class="site-header-title" href="http://skokoh.github.io/">stella koh</a>
+        </div>
+      </header>
+      <div class="container">
+        <div id="main">
+
+<div class="article">
+  <header>
+    <div class="article-header">
+      <h1>How to install Geppaku theme</h1>
+      <div class="article-meta">
+        <span class="posttime">2016/05/03</span>
+        
+<div class="tags">
+  <ul>
+    
+    <li>
+        <a href="/tags/hugo">Hugo</a>
+    </li>
+    
+    <li>
+        <a href="/tags/hugo-theme">Hugo theme</a>
+    </li>
+    
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+    
+<div id="share-buttons">
+  <ul>
+    
+    
+    
+    
+    
+    
+    <li>
+      <div class="g-plusone" data-size="medium"></div>
+    </li>
+    
+    
+    
+  </ul>
+</div>
+
+
+  </header>
+  <div class="content">
+    
+
+<p>Geppaku is bluish white theme for <a href="http://gohugo.io/">Hugo</a>.<br />
+It is color name in Japan. Chinese character is &ldquo;月白&rdquo;.</p>
+
+<blockquote>
+<p>月白（げっぱく）とは、月の光を思わせる薄い青みを含んだ白色のことです。
+<small>via <a href="http://irocore.com/geppaku/">http://irocore.com/geppaku/</a></small></p>
+</blockquote>
+
+<p>Geppaku is the white color including a thin blue that reminiscent of the light of the moon.<br />
+(If that translate is wrong, please inform me using PullRequest.)</p>
+
+<h2 id="screenshot">Screenshot</h2>
+
+<h3 id="index-page">Index page</h3>
+
+<p><img src="/images/2016/05/03/list.png" alt="list" /></p>
+
+<h3 id="post-page">Post page</h3>
+
+<p><img src="/images/2016/05/03/screenshot.png" alt="post" /></p>
+
+<h2 id="installation">Installation</h2>
+
+<pre><code>$ mkdir themes
+$ cd themes
+$ git clone https://github.com/masa0221/hugo-theme-geppaku hugo-theme-geppaku
+</code></pre>
+
+<p>See the Hugo documentation for more information.</p>
+
+<h3 id="config">Config</h3>
+
+<p>Example of config.toml file:</p>
+
+<pre><code class="language-toml">baseurl = &quot;http://your-site-here/&quot;
+languageCode = &quot;en-us&quot;
+title = &quot;your site title&quot;
+theme= &quot;hugo-theme-geppaku&quot;
+googleAnalytics = &quot;&quot; # Optional
+disqusShortname = &quot;&quot; # Optional
+
+[author]
+    # If you want to display author information set these
+    # This is Optional values
+    name = &quot;Your name&quot;
+
+    # Please set account ids
+    # This is Optional values
+    twitter  = &quot;your twitter id&quot;
+    linkedin = &quot;your linkedin id&quot;
+    github   = &quot;your github id&quot;
+
+[params]
+    [params.sharebutton]
+        # If you want to display share buttons set these
+        # This is Optional values
+        twitter  = true
+        facebook = true
+        # hatena   = true # hatena is Japanese social media
+        google   = true
+        pocket   = true
+        # Please set id when you want to display facebook
+        facebookAppId = &quot;your app id&quot;
+
+    [params.adsense]
+        # If you want to display Google adsense set these
+        # This is Optional values
+        # 1. Create file written of the adsense tag into the directory &quot;layouts/partials&quot;
+        # 2. Please set file path name omitted &quot;layouts/partials&quot;
+        sidebar = &quot;adsense/sidebar.html&quot;
+        content = &quot;adsense/content.html&quot;
+</code></pre>
+
+<p>You can delete optional parameter.
+Please delete unnecessary parameter.</p>
+
+<h3 id="new-post">New Post</h3>
+
+<h4 id="create-markdown-file">Create markdown file</h4>
+
+<pre><code class="language-sh">hugo new post/2016/05/hello-hugo.md
+</code></pre>
+
+<h4 id="example-of-the-toml-file">Example of the toml file</h4>
+
+<pre><code>+++
+date = &quot;2016-04-30T16:44:45+09:00&quot;
+draft = false
+title = &quot;Hello Hugo!&quot;
+slug = &quot;hello-hugo&quot;
+categories = [&quot;tech&quot;]
+tags = [
+  &quot;hugo&quot;,
+  &quot;golang&quot;,
+  ]
++++
+Hello Hugo!
+</code></pre>
+
+  </div>
+  <footer>
+    <div class="article-footer">
+      
+<div class="tags">
+  <ul>
+    
+    <li>
+        <a href="/tags/hugo">Hugo</a>
+    </li>
+    
+    <li>
+        <a href="/tags/hugo-theme">Hugo theme</a>
+    </li>
+    
+  </ul>
+</div>
+
+
+      
+      <div class="adsense">
+        <span class="sponsor-label">Sponsored link</span>
+        
+<div style="width: 300px; height: 250px; background: #F6F7F8;"></div>
+
+      </div>
+      
+      
+<div id="share-buttons">
+  <ul>
+    
+    
+    
+    
+    
+    
+    <li>
+      <div class="g-plusone" data-size="medium"></div>
+    </li>
+    
+    
+    
+  </ul>
+</div>
+
+
+      
+      
+      <div id="pagenavigation-next-prev">
+        
+        <div id="pagenavigation-next">
+          <span class="pagenav-label">Previous</span>
+          <a href="http://skokoh.github.io/post/2016/05/sample-post-10/">Sample Post 10</a>
+        </div>
+        
+        
+      </div>
+      
+    </div>
+  </footer>
+</div>
+        </div>
+        <div class="sidebar">
+  
+  
+  <div class="sidebar-content">
+    <div class="sidebar-header">
+      <span>Author</span>
+    </div>
+    <div id="author">
+      <span>stella eunjeong koh</span>
+      <div>
+        
+        
+        <a href="https://github.com/skokoh"><i class="fa fa-github-square fa-2x" aria-hidden="true"></i></a>
+        
+        
+        <a href="https://www.linkedin.com/in/musicstellak"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+        
+        
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="sidebar-content">
+    <div class="sidebar-header">
+      <span>Categories</span>
+    </div>
+    <div class="categories">
+      <ul>
+        
+        <li>
+          <a href="/categories/sample"><span></span>sample (10)</a>
+        </li>
+        
+        <li>
+          <a href="/categories/technology"><span></span>technology (1)</a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+  
+  <div class="sidebar-content">
+    <div class="sidebar-header">
+      <span>RSS</span>
+    </div>
+    <div id="rss">
+      <a href="http://skokoh.github.io/index.xml" type="application/rss+xml" target="_blank">
+        <i class="fa fa-rss-square fa-2x" aria-hidden="true"></i>
+      </a>
+    </div>
+  </div>
+</div>
+
+      </div>
+      <footer>
+        <div id="site-footer-wrap">
+          <div id="site-footer">
+            <span>Powered by <a href="https://gohugo.io/">Hugo</a>.</span>
+            <span>
+              
+              Copyright (c) 2016, <a href="http://skokoh.github.io/">stella koh</a>
+              
+            </span>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
+
