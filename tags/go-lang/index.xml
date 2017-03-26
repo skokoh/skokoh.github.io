@@ -10,8 +10,37 @@
     
     <item>
       <title>music listening test</title>
+      <link>http://skokoh.github.io/post/2017/01/music-listening-test/</link>
+      <pubDate>Sat, 25 Mar 2017 14:26:18 -0700</pubDate>
+      
+      <guid>http://skokoh.github.io/post/2017/01/music-listening-test/</guid>
+      <description>listen carefully to the following songs. click on the play button to hear the songs. adjust the volume if needed.
+Song 1  taeyeon
+
+H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
+ It is quotation sample.
+H4 sample package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello, Hugo!&amp;quot;) }  Try Go
+It is codehighlight.</description>
+    </item>
+    
+    <item>
+      <title>stella eunjeong koh</title>
+      <link>http://skokoh.github.io/post/2017/01/intro/</link>
+      <pubDate>Sat, 25 Mar 2017 14:26:18 -0700</pubDate>
+      
+      <guid>http://skokoh.github.io/post/2017/01/intro/</guid>
+      <description>This is sample post.
+H2 sample This is H2 tag.
+H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
+ It is quotation sample.
+H4 sample package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello, Hugo!&amp;quot;) }  Try Go
+It is codehighlight.</description>
+    </item>
+    
+    <item>
+      <title>music listening test</title>
       <link>http://skokoh.github.io/post/2016/05/sample-post-10/</link>
-      <pubDate>Tue, 03 May 2016 10:00:00 +0900</pubDate>
+      <pubDate>Tue, 03 May 2016 11:03:05 +0900</pubDate>
       
       <guid>http://skokoh.github.io/post/2016/05/sample-post-10/</guid>
       <description>listen carefully to the following songs. click on the play button to hear the songs. adjust the volume if needed.

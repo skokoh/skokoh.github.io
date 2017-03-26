@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on stella koh</title>
+    <link>http://skokoh.github.io/categories/about-me/index.xml</link>
+    <description>Recent content in About Me on stella koh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>stella eunjeong koh</title>
+      <link>http://skokoh.github.io/post/2017/01/intro/</link>
+      <pubDate>Sat, 25 Mar 2017 14:26:18 -0700</pubDate>
+      
+      <guid>http://skokoh.github.io/post/2017/01/intro/</guid>
+      <description>This is sample post.
+H2 sample This is H2 tag.
+H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
+ It is quotation sample.
+H4 sample package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello, Hugo!&amp;quot;) }  Try Go
+It is codehighlight.</description>
+    </item>
+    
+  </channel>
+</rss>

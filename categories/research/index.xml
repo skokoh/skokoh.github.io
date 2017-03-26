@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on stella koh</title>
+    <link>http://skokoh.github.io/categories/research/index.xml</link>
+    <description>Recent content in Research on stella koh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>music listening test</title>
+      <link>http://skokoh.github.io/post/2017/01/music-listening-test/</link>
+      <pubDate>Sat, 25 Mar 2017 14:26:18 -0700</pubDate>
+      
+      <guid>http://skokoh.github.io/post/2017/01/music-listening-test/</guid>
+      <description>listen carefully to the following songs. click on the play button to hear the songs. adjust the volume if needed.
+Song 1  taeyeon
+
+H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
+ It is quotation sample.
+H4 sample package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello, Hugo!&amp;quot;) }  Try Go
+It is codehighlight.</description>
+    </item>
+    
+  </channel>
+</rss>

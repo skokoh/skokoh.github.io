@@ -6,8 +6,37 @@
     <description>Recent content in Posts on stella koh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 May 2016 11:03:05 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2017 14:26:18 -0700</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>music listening test</title>
+      <link>http://skokoh.github.io/post/2017/01/music-listening-test/</link>
+      <pubDate>Sat, 25 Mar 2017 14:26:18 -0700</pubDate>
+      
+      <guid>http://skokoh.github.io/post/2017/01/music-listening-test/</guid>
+      <description>listen carefully to the following songs. click on the play button to hear the songs. adjust the volume if needed.
+Song 1  taeyeon
+
+H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
+ It is quotation sample.
+H4 sample package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello, Hugo!&amp;quot;) }  Try Go
+It is codehighlight.</description>
+    </item>
+    
+    <item>
+      <title>stella eunjeong koh</title>
+      <link>http://skokoh.github.io/post/2017/01/intro/</link>
+      <pubDate>Sat, 25 Mar 2017 14:26:18 -0700</pubDate>
+      
+      <guid>http://skokoh.github.io/post/2017/01/intro/</guid>
+      <description>This is sample post.
+H2 sample This is H2 tag.
+H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
+ It is quotation sample.
+H4 sample package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello, Hugo!&amp;quot;) }  Try Go
+It is codehighlight.</description>
+    </item>
     
     <item>
       <title>How to install Geppaku theme</title>
@@ -28,7 +57,7 @@ Installation $ mkdir themes $ cd themes $ git clone https://github.com/masa0221/
     <item>
       <title>music listening test</title>
       <link>http://skokoh.github.io/post/2016/05/sample-post-10/</link>
-      <pubDate>Tue, 03 May 2016 10:00:00 +0900</pubDate>
+      <pubDate>Tue, 03 May 2016 11:03:05 +0900</pubDate>
       
       <guid>http://skokoh.github.io/post/2016/05/sample-post-10/</guid>
       <description>listen carefully to the following songs. click on the play button to hear the songs. adjust the volume if needed.
@@ -164,15 +193,6 @@ H3 sample  This is quotation This is quotation This is quotation via http://www.
  It is quotation sample.
 H4 sample package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello, Hugo!&amp;quot;) }  Try Go
 It is codehighlight.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://skokoh.github.io/post/2017/01/hello-hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://skokoh.github.io/post/2017/01/hello-hugo/</guid>
-      <description>date = &amp;ldquo;2017-03-25T14:26:18-07:00&amp;rdquo; draft = false title = &amp;ldquo;Hello Hugo!&amp;rdquo; slug = &amp;ldquo;hello-hugo&amp;rdquo; categories = [&amp;ldquo;tech&amp;rdquo;] tags = [ &amp;ldquo;hugo&amp;rdquo;, &amp;ldquo;golang&amp;rdquo;, ] +++ Hello Hugo!</description>
     </item>
     
   </channel>
