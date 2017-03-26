@@ -31,12 +31,11 @@ Installation $ mkdir themes $ cd themes $ git clone https://github.com/masa0221/
       <pubDate>Tue, 03 May 2016 10:00:00 +0900</pubDate>
       
       <guid>http://skokoh.github.io/post/2016/05/sample-post-10/</guid>
-      <description>This is sample post.
-H2 sample This is H2 tag.
+      <description>listen carefully to the following songs. click on the play button to hear the songs. adjust the volume if needed.
+Song 1  taeyeon
+
 H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
  It is quotation sample.
- taeyeon
-
 H4 sample package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello, Hugo!&amp;quot;) }  Try Go
 It is codehighlight.</description>
     </item>
