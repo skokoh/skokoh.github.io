@@ -2,32 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sample on stella koh</title>
-    <link>http://skokoh.github.io/categories/sample/index.xml</link>
+    <link>http://skokoh.github.io/kotest/categories/sample/index.xml</link>
     <description>Recent content in Sample on stella koh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/categories/sample/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Sample Post 10</title>
-      <link>http://skokoh.github.io/post/2016/05/sample-post-10/</link>
-      <pubDate>Tue, 03 May 2016 10:00:00 +0900</pubDate>
-      
-      <guid>http://skokoh.github.io/post/2016/05/sample-post-10/</guid>
-      <description>This is sample post.
-H2 sample This is H2 tag.
-H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
- It is quotation sample.
-H4 sample package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello, Hugo!&amp;quot;) }  Try Go
-It is codehighlight.</description>
-    </item>
+    <atom:link href="/kotest/categories/sample/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sample Post 9</title>
-      <link>http://skokoh.github.io/post/2016/05/sample-post-9/</link>
+      <link>http://skokoh.github.io/kotest/post/2016/05/sample-post-9/</link>
       <pubDate>Tue, 03 May 2016 09:00:00 +0900</pubDate>
       
-      <guid>http://skokoh.github.io/post/2016/05/sample-post-9/</guid>
+      <guid>http://skokoh.github.io/kotest/post/2016/05/sample-post-9/</guid>
       <description>This is sample post.
 H2 sample This is H2 tag.
 H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
@@ -38,10 +24,10 @@ It is codehighlight.</description>
     
     <item>
       <title>Sample Post 8</title>
-      <link>http://skokoh.github.io/post/2016/05/sample-post-8/</link>
+      <link>http://skokoh.github.io/kotest/post/2016/05/sample-post-8/</link>
       <pubDate>Tue, 03 May 2016 08:00:00 +0900</pubDate>
       
-      <guid>http://skokoh.github.io/post/2016/05/sample-post-8/</guid>
+      <guid>http://skokoh.github.io/kotest/post/2016/05/sample-post-8/</guid>
       <description>This is sample post.
 H2 sample This is H2 tag.
 H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
@@ -52,10 +38,10 @@ It is codehighlight.</description>
     
     <item>
       <title>Sample Post 7</title>
-      <link>http://skokoh.github.io/post/2016/05/sample-post-7/</link>
+      <link>http://skokoh.github.io/kotest/post/2016/05/sample-post-7/</link>
       <pubDate>Tue, 03 May 2016 07:00:00 +0900</pubDate>
       
-      <guid>http://skokoh.github.io/post/2016/05/sample-post-7/</guid>
+      <guid>http://skokoh.github.io/kotest/post/2016/05/sample-post-7/</guid>
       <description>This is sample post.
 H2 sample This is H2 tag.
 H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
@@ -66,10 +52,10 @@ It is codehighlight.</description>
     
     <item>
       <title>Sample Post 6</title>
-      <link>http://skokoh.github.io/post/2016/05/sample-post-6/</link>
+      <link>http://skokoh.github.io/kotest/post/2016/05/sample-post-6/</link>
       <pubDate>Tue, 03 May 2016 06:00:00 +0900</pubDate>
       
-      <guid>http://skokoh.github.io/post/2016/05/sample-post-6/</guid>
+      <guid>http://skokoh.github.io/kotest/post/2016/05/sample-post-6/</guid>
       <description>This is sample post.
 H2 sample This is H2 tag.
 H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
@@ -80,10 +66,10 @@ It is codehighlight.</description>
     
     <item>
       <title>Sample Post 5</title>
-      <link>http://skokoh.github.io/post/2016/05/sample-post-5/</link>
+      <link>http://skokoh.github.io/kotest/post/2016/05/sample-post-5/</link>
       <pubDate>Tue, 03 May 2016 05:00:00 +0900</pubDate>
       
-      <guid>http://skokoh.github.io/post/2016/05/sample-post-5/</guid>
+      <guid>http://skokoh.github.io/kotest/post/2016/05/sample-post-5/</guid>
       <description>This is sample post.
 H2 sample This is H2 tag.
 H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
@@ -94,10 +80,10 @@ It is codehighlight.</description>
     
     <item>
       <title>Sample Post 4</title>
-      <link>http://skokoh.github.io/post/2016/05/sample-post-4/</link>
+      <link>http://skokoh.github.io/kotest/post/2016/05/sample-post-4/</link>
       <pubDate>Tue, 03 May 2016 04:00:00 +0900</pubDate>
       
-      <guid>http://skokoh.github.io/post/2016/05/sample-post-4/</guid>
+      <guid>http://skokoh.github.io/kotest/post/2016/05/sample-post-4/</guid>
       <description>This is sample post.
 H2 sample This is H2 tag.
 H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
@@ -108,10 +94,10 @@ It is codehighlight.</description>
     
     <item>
       <title>Sample Post 3</title>
-      <link>http://skokoh.github.io/post/2016/05/sample-post-3/</link>
+      <link>http://skokoh.github.io/kotest/post/2016/05/sample-post-3/</link>
       <pubDate>Tue, 03 May 2016 03:00:00 +0900</pubDate>
       
-      <guid>http://skokoh.github.io/post/2016/05/sample-post-3/</guid>
+      <guid>http://skokoh.github.io/kotest/post/2016/05/sample-post-3/</guid>
       <description>This is sample post.
 H2 sample This is H2 tag.
 H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
@@ -122,10 +108,10 @@ It is codehighlight.</description>
     
     <item>
       <title>Sample Post 2</title>
-      <link>http://skokoh.github.io/post/2016/05/sample-post-2/</link>
+      <link>http://skokoh.github.io/kotest/post/2016/05/sample-post-2/</link>
       <pubDate>Tue, 03 May 2016 02:00:00 +0900</pubDate>
       
-      <guid>http://skokoh.github.io/post/2016/05/sample-post-2/</guid>
+      <guid>http://skokoh.github.io/kotest/post/2016/05/sample-post-2/</guid>
       <description>This is sample post.
 H2 sample This is H2 tag.
 H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
@@ -136,10 +122,10 @@ It is codehighlight.</description>
     
     <item>
       <title>Sample Post 1</title>
-      <link>http://skokoh.github.io/post/2016/05/sample-post-1/</link>
+      <link>http://skokoh.github.io/kotest/post/2016/05/sample-post-1/</link>
       <pubDate>Tue, 03 May 2016 00:01:00 +0900</pubDate>
       
-      <guid>http://skokoh.github.io/post/2016/05/sample-post-1/</guid>
+      <guid>http://skokoh.github.io/kotest/post/2016/05/sample-post-1/</guid>
       <description>This is sample post.
 H2 sample This is H2 tag.
 H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/

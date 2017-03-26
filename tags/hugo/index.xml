@@ -2,24 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on stella koh</title>
-    <link>http://skokoh.github.io/tags/hugo/index.xml</link>
+    <link>http://skokoh.github.io/kotest/tags/hugo/index.xml</link>
     <description>Recent content in Hugo on stella koh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/kotest/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How to install Geppaku theme</title>
-      <link>http://skokoh.github.io/post/2016/05/how-to-install-geppaku-theme/</link>
+      <link>http://skokoh.github.io/kotest/post/2016/05/how-to-install-geppaku-theme/</link>
       <pubDate>Tue, 03 May 2016 11:03:05 +0900</pubDate>
       
-      <guid>http://skokoh.github.io/post/2016/05/how-to-install-geppaku-theme/</guid>
+      <guid>http://skokoh.github.io/kotest/post/2016/05/how-to-install-geppaku-theme/</guid>
       <description>Geppaku is bluish white theme for Hugo.
 It is color name in Japan. Chinese character is &amp;ldquo;月白&amp;rdquo;.
  月白（げっぱく）とは、月の光を思わせる薄い青みを含んだ白色のことです。 via http://irocore.com/geppaku/
  Geppaku is the white color including a thin blue that reminiscent of the light of the moon.
 (If that translate is wrong, please inform me using PullRequest.)
-Screenshot Index page Post page Installation $ mkdir themes $ cd themes $ git clone https://github.com/masa0221/hugo-theme-geppaku hugo-theme-geppaku  See the Hugo documentation for more information.</description>
+Screenshot Index page (http://www.podsnack.com/musicstellak/a1jsdaqq)
+Post page Audio page 
+Installation $ mkdir themes $ cd themes $ git clone https://github.com/masa0221/hugo-theme-geppaku hugo-theme-geppaku  See the Hugo documentation for more information.</description>
     </item>
     
   </channel>
