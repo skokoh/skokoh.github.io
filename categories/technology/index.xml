@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on stella koh</title>
-    <link>http://skokoh.github.io/kotest/categories/technology/index.xml</link>
+    <link>http://skokoh.github.io/categories/technology/index.xml</link>
     <description>Recent content in Technology on stella koh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/kotest/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How to install Geppaku theme</title>
-      <link>http://skokoh.github.io/kotest/post/2016/05/how-to-install-geppaku-theme/</link>
+      <link>http://skokoh.github.io/post/2016/05/how-to-install-geppaku-theme/</link>
       <pubDate>Tue, 03 May 2016 11:03:05 +0900</pubDate>
       
-      <guid>http://skokoh.github.io/kotest/post/2016/05/how-to-install-geppaku-theme/</guid>
+      <guid>http://skokoh.github.io/post/2016/05/how-to-install-geppaku-theme/</guid>
       <description>Geppaku is bluish white theme for Hugo.
 It is color name in Japan. Chinese character is &amp;ldquo;月白&amp;rdquo;.
  月白（げっぱく）とは、月の光を思わせる薄い青みを含んだ白色のことです。 via http://irocore.com/geppaku/
