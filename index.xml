@@ -6,8 +6,19 @@
     <description>Recent content in stella koh on stella koh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2017 14:26:18 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2017 14:26:18 -0700</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>stella koh</title>
+      <link>http://skokoh.github.io/post/2017/01/intro/</link>
+      <pubDate>Sat, 01 Apr 2017 14:26:18 -0700</pubDate>
+      
+      <guid>http://skokoh.github.io/post/2017/01/intro/</guid>
+      <description>.markdown-here-wrapper { font-family: Verdana, sans; font-size: 2em;
+Eunjeong(Stella) Koh Research Interests: Music Information Retrieval, Machine Learning for Audio/Music Applications, Sound Design, Auditory Perception &amp;amp; Cognition
+Education  Sep 2016 – | Ph.D. Student at Music, UC San Diego, CA 2012 – 2014. M.S. Engineering at Music &amp;amp; Audio Research Group, Seoul National University, South Korea (advisor: Kyogu Lee) 2008 – 2012. B.S. Computer Science and Engineering at Ewha Womans University, South Korea  Experiences  Jan 2017 - | Dubbing Assistant at Music Department, UC San Diego, CA Sep 2016 - Dec 2016 | Research Assistant at Center for Research in Entertainment and Learning, UC San Diego, CA (advisor: Shlomo Dubnov) Mar 2014 - Jul 2015 | Assistant Engineer at Software R&amp;amp;D Center, Samsung Electronics, South Korea Mar 2012 - Feb 2014 | Research Assistant at Music &amp;amp; Audio Research Group, Seoul National University, South Korea (advisor: Kyogu Lee) Jan 2013 - Feb 2013 | Student Intern at Music Service Team, Naver Corporation, South Korea Jun 2011 - Sep 2011 | Research Assistant at Interactive VR/AR Media Lab, Ewha Womans University (advisor: Yanghee Nam)  Publications  From Music to Programming: Designing Method for Introductory Programming Using Musical Metaphor and Auditory Feedback.</description>
+    </item>
     
     <item>
       <title>music listening test</title>
@@ -22,16 +33,6 @@ H3 sample  This is quotation This is quotation This is quotation via http://www.
  It is quotation sample.
 H4 sample package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello, Hugo!&amp;quot;) }  Try Go
 It is codehighlight.</description>
-    </item>
-    
-    <item>
-      <title>stella koh</title>
-      <link>http://skokoh.github.io/post/2017/01/intro/</link>
-      <pubDate>Sat, 25 Mar 2017 14:26:18 -0700</pubDate>
-      
-      <guid>http://skokoh.github.io/post/2017/01/intro/</guid>
-      <description>Eunjeong(Stella) Koh Research Interests: Music Information Retrieval, Machine Learning for Audio/Music Applications, Sound Design, Auditory Perception &amp;amp; Cognition
-Education  Sep 2016 – | Ph.D. Student at Music, UC San Diego, CA 2012 – 2014. M.S. Engineering at Music &amp;amp; Audio Research Group, Seoul National University, South Korea (advisor: Kyogu Lee) 2008 – 2012. B.S. Computer Science and Engineering at Ewha Womans University, South Korea  Experiences  Jan 2017 - | Dubbing Assistant at Music Department, UC San Diego, CA Sep 2016 - Dec 2016 | Research Assistant at Center for Research in Entertainment and Learning, UC San Diego, CA (advisor: Shlomo Dubnov) Mar 2014 - Jul 2015 | Assistant Engineer at Software R&amp;amp;D Center, Samsung Electronics, South Korea Mar 2012 - Feb 2014 | Research Assistant at Music &amp;amp; Audio Research Group, Seoul National University, South Korea (advisor: Kyogu Lee) Jan 2013 - Feb 2013 | Student Intern at Music Service Team, Naver Corporation, South Korea Jun 2011 - Sep 2011 | Research Assistant at Interactive VR/AR Media Lab, Ewha Womans University (advisor: Yanghee Nam)  Publications  From Music to Programming: Designing Method for Introductory Programming Using Musical Metaphor and Auditory Feedback.</description>
     </item>
     
     <item>
