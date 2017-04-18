@@ -24,7 +24,7 @@
   
   <url>
     <loc>http://skokoh.github.io/tags/bio/</loc>
-    <lastmod>2017-04-18T12:00:00-07:00</lastmod>
+    <lastmod>2017-04-01T14:26:18-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,6 +47,12 @@
   
   <url>
     <loc>http://skokoh.github.io/post/</loc>
+    <lastmod>2017-04-18T12:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://skokoh.github.io/tags/recreation/</loc>
     <lastmod>2017-04-18T12:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>

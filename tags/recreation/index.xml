@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recreation on stella koh</title>
+    <link>http://skokoh.github.io/tags/recreation/index.xml</link>
+    <description>Recent content in Recreation on stella koh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/recreation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>scuba pictures</title>
+      <link>http://skokoh.github.io/post/2017/01/dive/</link>
+      <pubDate>Tue, 18 Apr 2017 12:00:00 -0700</pubDate>
+      
+      <guid>http://skokoh.github.io/post/2017/01/dive/</guid>
+      <description>scuba diving 
+seychelles and me  seychelles and fish  seychelles and shark  yellow fish group  yellow fish and me  under the sea  very first scuba diving in jeju  </description>
+    </item>
+    
+  </channel>
+</rss>
