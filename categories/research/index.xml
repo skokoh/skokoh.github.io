@@ -15,12 +15,22 @@
       
       <guid>http://skokoh.github.io/post/2017/01/music-listening-test/</guid>
       <description>listen carefully to the following songs. click on the play button to hear the songs. adjust the volume if needed.
-Song 1  taeyeon
+song1 
+ taeyeon
 
-H3 sample  This is quotation This is quotation This is quotation via http://www.example.com/
- It is quotation sample.
-H4 sample package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello, Hugo!&amp;quot;) }  Try Go
-It is codehighlight.</description>
+song2 
+ 
+song3 
+ 
+song4 
+ 
+song5 
+ 
+song6 
+ 
+song7 
+ 
+song8</description>
     </item>
     
   </channel>
