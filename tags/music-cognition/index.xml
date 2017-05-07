@@ -16,7 +16,6 @@
       <guid>http://skokoh.github.io/post/2017/01/music-listening-test/</guid>
       <description>listen carefully to the following songs.  click on the play button to hear the songs.  adjust the volume if needed.   song1 
  
-First name: Last name:  submit
 song2 
  
 song3 
@@ -29,7 +28,10 @@ song6
  
 song7 
  
-song8</description>
+song8 
+ 
+demographics 
+function download(filename, text) { var pom = document.createElement(&#39;a&#39;); pom.setAttribute(&#39;href&#39;, &#39;data:text/plain;charset=utf-8,&#39; + encodeURIComponent(text)); pom.</description>
     </item>
     
   </channel>

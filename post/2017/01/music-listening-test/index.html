@@ -82,13 +82,6 @@
 <source type="audio/mp3" src="/audio/music1.mp3"></source>
 </audio></p>
 
-<form action="/action_page.php" method="get" id="form1">
-First name: <input type="text" name="fname"><br>
-Last name: <input type="text" name="lname"><br>
-</form>
-
-<p><button type="submit" form="form1" value="Submit">submit</button></p>
-
 <p><span style="color:black; font-family:Tahoma; font-size:small"> song2 </span></p>
 
 <p><audio controls="controls">
@@ -130,6 +123,50 @@ Last name: <input type="text" name="lname"><br>
 <p><audio controls="controls">
 <source type="audio/mp3" src="/audio/music8.mp3"></source>
 </audio></p>
+
+<p><span style="color:black; font-family:Tahoma; font-size:small"> demographics  </span></p>
+
+<script language="Javascript" >
+function download(filename, text) {
+var pom = document.createElement('a');
+pom.setAttribute('href', 'data:text/plain;charset=utf-8,' + 
+
+encodeURIComponent(text));
+pom.setAttribute('download', filename);
+
+pom.style.display = 'none';
+document.body.appendChild(pom);
+
+pom.click();
+
+document.body.removeChild(pom);
+}
+</script>
+
+<!-- <form action="answer/" method="get" id="form1"> -->
+
+<form onsubmit="download(this['name'].value, this['text'].value)">
+<input type="text" name="name" value="test.txt">
+
+* <span style="color:black; font-family:Tahoma; font-size:small"> gender </span> 
+<input type="text" name="gender"><br>
+* <span style="color:black; font-family:Tahoma; font-size:small"> age </span> 
+<input type="text" name="age"><br>
+* <span style="color:black; font-family:Tahoma; font-size:small"> occupation (musician/non-musician) </span> 
+<input type="text" name="occupation"><br>
+* <span style="color:black; font-family:Tahoma; font-size:small"> musical training experience </span> 
+<input type="text" name="training"><br>
+* <span style="color:black; font-family:Tahoma; font-size:small"> how ofen do you listen to music? </span> 
+<input type="text" name="listening"><br>
+
+* <span style="color:black; font-family:Tahoma; font-size:small"> have you heard any of these songs before? </span> 
+<input type="text" name="before"><br>
+* <span style="color:black; font-family:Tahoma; font-size:small"> do you know what they are advertising? </span> 
+<input type="text" name="ad"><br>
+
+</form>
+
+<p><button type="submit" form="form1" value="Download">submit</button></p>
 
   </div>
   <footer>
