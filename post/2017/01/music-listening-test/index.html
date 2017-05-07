@@ -76,6 +76,18 @@
 <li><span style="color:black; font-family:Tahoma; font-size:small"> adjust the volume if needed. </span></li>
 </ul>
 
+<!-- file saving -->
+
+<p>&lt;?php
+$action = $_GET[&ldquo;action&rdquo;];
+$myText = $_POST[&ldquo;mytext&rdquo;];</p>
+
+<p>if($action = &ldquo;save&rdquo;) {
+$targetFolder = &ldquo;/answer&rdquo;;
+file_put_contents($targetFolder.&ldquo;mytext.txt&rdquo;, $myText);
+}
+?&gt;</p>
+
 <p><span style="color:black; font-family:Tahoma; font-size:small"> song1 </span></p>
 
 <p><audio controls="controls">
@@ -124,29 +136,12 @@
 <source type="audio/mp3" src="/audio/music8.mp3"></source>
 </audio></p>
 
-<p><span style="color:black; font-family:Tahoma; font-size:small"> demographics  </span></p>
+<ul>
+<li><span style="color:black; font-family:Tahoma; font-size:small"> demographics  </span></li>
+</ul>
 
-<script language="Javascript" >
-function download(filename, text) {
-var pom = document.createElement('a');
-pom.setAttribute('href', 'data:text/plain;charset=utf-8,' + 
+<form action="?action=save" name="form1" method="post">
 
-encodeURIComponent(text));
-pom.setAttribute('download', filename);
-
-pom.style.display = 'none';
-document.body.appendChild(pom);
-
-pom.click();
-
-document.body.removeChild(pom);
-}
-</script>
-
-<!-- <form action="answer/" method="get" id="form1"> -->
-
-<form onsubmit="download(this['name'].value, this['text'].value)">
-<input type="text" name="name" value="test.txt">
 
 * <span style="color:black; font-family:Tahoma; font-size:small"> gender </span> 
 <input type="text" name="gender"><br>
@@ -164,9 +159,8 @@ document.body.removeChild(pom);
 * <span style="color:black; font-family:Tahoma; font-size:small"> do you know what they are advertising? </span> 
 <input type="text" name="ad"><br>
 
+<button type="submit" form="form1" value="save">submit</button>
 </form>
-
-<p><button type="submit" form="form1" value="Download">submit</button></p>
 
   </div>
   <footer>
