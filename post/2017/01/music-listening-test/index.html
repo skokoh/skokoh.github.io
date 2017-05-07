@@ -82,7 +82,12 @@
 <source type="audio/mp3" src="/audio/music1.mp3"></source>
 </audio></p>
 
-<p><input type="text" id="name" name="name"/></p>
+<form action="/action_page.php" method="get" id="form1">
+First name: <input type="text" name="fname"><br>
+Last name: <input type="text" name="lname"><br>
+</form>
+
+<p><button type="submit" form="form1" value="Submit">submit</button></p>
 
 <p><span style="color:black; font-family:Tahoma; font-size:small"> song2 </span></p>
 
