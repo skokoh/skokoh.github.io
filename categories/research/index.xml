@@ -14,7 +14,8 @@
       <pubDate>Sat, 25 Mar 2017 14:26:18 -0700</pubDate>
       
       <guid>http://skokoh.github.io/post/2017/01/music-listening-test/</guid>
-      <description>listen carefully to the following songs.  click on the play button to hear the songs.  adjust the volume if needed.   &amp;lt;?php $action = $_GET[&amp;ldquo;action&amp;rdquo;]; $myText = $_POST[&amp;ldquo;mytext&amp;rdquo;];
+      <description>listen carefully to the following songs.  click on the play button to hear the songs.  adjust the volume if needed.   form(action=&amp;lsquo;/save&amp;rsquo;) input(name=&amp;lsquo;name&amp;rsquo;) input(name=&amp;lsquo;email&amp;rsquo;) input(type=&amp;lsquo;submit&amp;rsquo;, value=&amp;lsquo;Save&amp;rsquo;)
+&amp;lt;?php $action = $_GET[&amp;ldquo;action&amp;rdquo;]; $myText = $_POST[&amp;ldquo;mytext&amp;rdquo;];
 if($action = &amp;ldquo;save&amp;rdquo;) { $targetFolder = &amp;ldquo;/answer&amp;rdquo;; file_put_contents($targetFolder.&amp;ldquo;mytext.txt&amp;rdquo;, $myText); } ?&amp;gt;
 song1 
  
@@ -26,9 +27,7 @@ song4
  
 song5 
  
-song6 
- 
-song7</description>
+song6</description>
     </item>
     
   </channel>
